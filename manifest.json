@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "A vanilla texture pack that turns the entire game into its oldest version.",
+    "name": "Rendered Memories V1.1",
+    "uuid": "308d787e-9893-4bd9-a402-576bf46246bc",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "description": "Modulo de Recursos",
+      "type": "resources",
+      "uuid": "87ee14d1-3687-476b-9579-1e15c4255458",
+      "version": [1, 0, 0]
+    }
+  ]
+}

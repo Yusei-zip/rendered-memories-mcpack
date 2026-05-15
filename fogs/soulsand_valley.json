@@ -1,0 +1,40 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:fog_settings": {
+        "description": {
+            "identifier": "agg:soulsand_valley"
+        },
+        "distance": {
+            "air": {
+                "fog_start": 1,
+                "fog_end": 1,
+                "fog_color": "#1B4745",
+                "render_distance_type": "render"
+            },
+            "weather": {
+                "fog_start": 1,
+                "fog_end": 1,
+                "fog_color": "#1B4745",
+                "render_distance_type": "render"
+            },
+            "water": {
+                "fog_start": 1,
+                "fog_end": 1,
+                "fog_color": "#905957",
+                "render_distance_type": "render"
+            },
+            "lava": {
+                "fog_start": 1,
+                "fog_end": 1,
+                "fog_color": "#EA7F10",
+                "render_distance_type": "render"
+            },
+            "lava_resistance": {
+                "fog_start": 1,
+                "fog_end": 1,
+                "fog_color": "#EA7F10",
+                "render_distance_type": "render"
+            }
+        }
+    }
+}
