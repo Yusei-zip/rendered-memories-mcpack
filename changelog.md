@@ -29,8 +29,6 @@
      - Arnés color Gris: Creaking
      - Arnés color Blanco: Esqueleto
      - Arnés color Gris claro: Calabaza gris
-<br>
-**Todos los items tienen sus correspondientes texturas, es una manera de saber cuales serán las texturas a futuro**
 - **Cristales:** Cristales de la version legacy via [Curse forge](https://www.curseforge.com/minecraft/texture-packs/clean-glass-tinted-glass/files/6089906).
 - El bloque de deepslate ahora tiene su versión legacy incluidas sus versiones en ore.
 
@@ -38,22 +36,11 @@
 - Un error menor en el sonido de los bloques de madera.
 - Las animaciones de la madera de Warped y Crinsom han sido corregidas para mostrar la animacion correcta con la textura correcta.
 
----
 
-## [1.1.1] - 2026-04-16
-### Añadido
-- Lenguaje customizado en español mexicano (`es_MX.lang`). con cambio de nombres a varios items como:
-     - Discos de musica
-     - Armas
-- **Flores:** Nuevas y coloridas texturas agregadas a las flores silvestres.
 
-### Cambiado
-- *Cambios en los discos de musica*
-     - **Discos 13:** Recuerdos - José José
-     - **Disco wait:** Ditto - New Jeans
-     - **Disco ward:** ASAP - New Jeans
+---pack_icon 
 
 
 > [!IMPORTANT]
-> Este proyecto sigue los principios de modularidad aplicados .
+> Este proyecto sigue los principios de modularidad aplicados.
 
